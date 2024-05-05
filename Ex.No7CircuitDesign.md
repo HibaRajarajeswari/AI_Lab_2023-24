@@ -1,7 +1,7 @@
 # Ex.No: 7  Logic Programming –  Logic Circuit Design
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: 
+### DATE: 23/03/24                                                                           
+### REGISTER NUMBER : 212221040056
+# AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
 ###  Algorithm:
 1. Start the Program
@@ -13,7 +13,7 @@ To write a logic program to design a circuit like half adder and half subtractor
 7. Test the logic.
 8. Stop the program.
 
-### Program:
+# Program:
 ```
 xor(0,1,1).
 xor(0,0,0).
@@ -54,10 +54,10 @@ or(Y,Z,Cout).
 
 
 
-### Output:
+# Output:
 
 ![image](https://github.com/HibaRajarajeswari/AI_Lab_2023-24/assets/129970809/359b10bd-c902-4566-865b-3140a1889e3f)
 
 
-### Result:
+# Result:
 Thus the truth table of circuit verified sucessfully.
